@@ -7,7 +7,8 @@ namespace Testegitbash
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("good morning");
+           
+            Console.WriteLine("Smite");
             Console.ReadLine();
 
         }
